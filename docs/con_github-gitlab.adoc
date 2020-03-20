@@ -1,4 +1,4 @@
-[id='con_github-gitlab.adoc']
+[id='con_github-gitlab']
 
 = {github-title} and {gitlab-title}
 

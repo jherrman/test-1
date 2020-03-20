@@ -2,10 +2,8 @@
 
 :prod: Git Cheat Sheet for New Writers
 :prod-short: Git Cheat Sheet
-:prod-ver: pre-pre-alpha 0.001
+:prod-ver: 0.001
 :github-title: GitHub
 :gitlab-title: GitLab
 :gh-link: link:https://{github-title}.com/[GitHub]
 :gl-link: link:https://about.{gitlab-title}.com/[GitLab]
-
-

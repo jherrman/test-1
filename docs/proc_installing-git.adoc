@@ -1,4 +1,4 @@
-[id='proc_installing Git']
+[id='proc_installing_Git']
 
 = Installing Git
 
